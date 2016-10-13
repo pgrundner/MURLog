@@ -5,7 +5,6 @@ target 'MURLog_Example' do
 
   target 'MURLog_Tests' do
     inherit! :search_paths
-
     
   end
 end
